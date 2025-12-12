@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frontend/src/assets/banner.png" alt="CMP Banner" width="100%" />
+  <img src="assets/CMP_banner.png" alt="CMP Banner" width="100%" />
 </p>
 
 <h1 align="center">🧠 CMP — Content Marketing Planner (AI-Powered Multi-Agent Strategy Engine)</h1>
