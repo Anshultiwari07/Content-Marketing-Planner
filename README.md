@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="frontend/src/assets/cmp_banner.png" alt="CMP Banner" width="100%" />
+  <img src="frontend/src/assets/banner.png" alt="CMP Banner" width="100%" />
 </p>
 
 <h1 align="center">🧠 CMP — Content Marketing Planner (AI-Powered Multi-Agent Strategy Engine)</h1>
@@ -43,7 +43,7 @@ CMP generates **strategy**, **personas**, **messaging**, **campaigns**, **posts*
 ## 🎨 UI Preview
 
 <p align="center">
-  <img src="frontend/src/assets/cmp_preview.png" alt="CMP UI Preview" width="100%" />
+  <img src="assets/ui-preview.png" alt="CMP UI Preview" width="100%" />
 </p>
 
 ---
